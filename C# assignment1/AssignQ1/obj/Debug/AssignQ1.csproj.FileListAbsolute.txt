@@ -1,8 +1,0 @@
-C:\Users\amatuljabbar\Source\Repos\AssignQ1\AssignQ1\bin\Debug\AssignQ1.exe.config
-C:\Users\amatuljabbar\Source\Repos\AssignQ1\AssignQ1\bin\Debug\AssignQ1.exe
-C:\Users\amatuljabbar\Source\Repos\AssignQ1\AssignQ1\bin\Debug\AssignQ1.pdb
-C:\Users\amatuljabbar\Source\Repos\AssignQ1\AssignQ1\obj\Debug\AssignQ1.csproj.AssemblyReference.cache
-C:\Users\amatuljabbar\Source\Repos\AssignQ1\AssignQ1\obj\Debug\AssignQ1.csproj.SuggestedBindingRedirects.cache
-C:\Users\amatuljabbar\Source\Repos\AssignQ1\AssignQ1\obj\Debug\AssignQ1.csproj.CoreCompileInputs.cache
-C:\Users\amatuljabbar\Source\Repos\AssignQ1\AssignQ1\obj\Debug\AssignQ1.exe
-C:\Users\amatuljabbar\Source\Repos\AssignQ1\AssignQ1\obj\Debug\AssignQ1.pdb
