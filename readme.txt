@@ -1,7 +1,0 @@
-<html>
-<head>
-<body>
-<title>my assignment</title>
-</body>
-</head>
-</html>
